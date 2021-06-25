@@ -4,8 +4,8 @@ A Scraper for a fren.
 ## How to run
 
 ```
-    python -m pip install -r requirements.txt
-    python main.py
+1) python -m pip install -r requirements.txt
+2) python main.py
 
 ```
 
